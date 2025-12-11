@@ -3,8 +3,8 @@ owner: Tradesly-AI
 repo: status
 
 sites:
-  - name: CRM Demo
-    url: https://crm.tradesly.ai
+  - name: Test Alert
+    url: https://test-alert.tradesly.ai
   - name: CRM Production
     url: https://prod.tradesly.ai
 
@@ -22,4 +22,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-      
