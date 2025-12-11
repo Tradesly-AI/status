@@ -1,23 +1,21 @@
 [
   {
-    "name": "Test Alert",
+    "name": "CRM Demo",
     "url": "https://crm.tradesly.ai",
     "icon": "https://icons.duckduckgo.com/ip3/crm.tradesly.ai.ico",
-    "slug": "test-alert",
+    "slug": "crm-demo",
     "status": "up",
-    "uptime": "1.89%",
-    "uptimeDay": "1.89%",
-    "uptimeWeek": "1.89%",
-    "uptimeMonth": "1.89%",
-    "uptimeYear": "1.89%",
-    "time": 63,
-    "timeDay": 63,
-    "timeWeek": 63,
-    "timeMonth": 63,
-    "timeYear": 63,
-    "dailyMinutesDown": {
-      "2025-12-11": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 264,
+    "timeDay": 264,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CRM Production",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 210,
-    "timeWeek": 210,
-    "timeMonth": 210,
-    "timeYear": 210,
+    "time": 230,
+    "timeDay": 230,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   }
 ]
