@@ -22,18 +22,20 @@
     "url": "https://crm.tradesly.ai",
     "icon": "https://icons.duckduckgo.com/ip3/crm.tradesly.ai.ico",
     "slug": "crm-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 253,
-    "timeWeek": 230,
-    "timeMonth": 273,
-    "timeYear": 273,
-    "dailyMinutesDown": {}
+    "time": 276,
+    "timeDay": 318,
+    "timeWeek": 249,
+    "timeMonth": 276,
+    "timeYear": 276,
+    "dailyMinutesDown": {
+      "2026-01-07": 0
+    }
   },
   {
     "name": "CRM Production",
