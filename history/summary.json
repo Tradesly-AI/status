@@ -4,7 +4,7 @@
     "url": "https://tradesly.ai",
     "icon": "https://icons.duckduckgo.com/ip3/tradesly.ai.ico",
     "slug": "tradesly-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "94.84%",
     "uptimeWeek": "98.63%",
@@ -16,6 +16,7 @@
     "timeMonth": 490,
     "timeYear": 601,
     "dailyMinutesDown": {
+      "2026-04-14": 0,
       "2026-04-13": 74,
       "2026-04-07": 64,
       "2026-03-31": 59,
